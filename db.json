@@ -1,7 +1,5 @@
 {
     "advertiseList":
-    {
-        "items":
             [
                 {
                     "id": 1,
@@ -32,5 +30,4 @@
                     "image":"https://imganuncios.mitula.net/schone_3_raum_wohnung_direkt_vom_eigentumer_6890117544932037956.jpg"                    
                 }
             ]
-    }
 }
