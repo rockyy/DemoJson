@@ -7,113 +7,29 @@
                     "id": 1,
                     "title": "Schöne Zweiraumwohnung direkt im Grünen",
                     "price":500,
-                    "location":{
-                        "address":"Bergmannstraße 33, 10961 Berlin",
-                        "latitude":52.488886876519175,
-                        "longitude":13.397688051882763
-                    },
-                    "images":[
-                        {                        
-                            "id":1,
-                            "url":"https://imganuncios.mitula.net/idyllisch_im_grunen_wohnen_schone_2_zimmer_wohnung_6380124536072569806.jpg"
-                        },
-                        {
-                            "id":2,
-                            "url":"https://imganuncios.mitula.net/idyllisch_im_grunen_wohnen_schone_2_zimmer_wohnung_6380124536072569806.jpg"             
-                        },
-                        {
-                            "id":3,
-                            "url":"https://imganuncios.mitula.net/idyllisch_im_grunen_wohnen_schone_2_zimmer_wohnung_6380124536072569806.jpg"
-                        },
-                        {
-                            "id":4,
-                            "url":"https://imganuncios.mitula.net/idyllisch_im_grunen_wohnen_schone_2_zimmer_wohnung_6380124536072569806.jpg"
-                        }
-                    ]
+                    "address":"Bergmannstraße 33, 10961 Berlin",
+                    "image":"https://imganuncios.mitula.net/idyllisch_im_grunen_wohnen_schone_2_zimmer_wohnung_6380124536072569806.jpg"                    
                 },
                 {
                     "id": 2,
                     "title": "1 ruhiges Zimmer - Studioappartment",
                     "price":380,
-                    "location":{
-                        "address":"Bergmannstraße 15, 10961 Berlin",
-                        "latitude":52.48920357221971,
-                        "longitude":13.391565489174383
-                    },
-                    "images":[
-                        {
-                            "id":1,
-                            "url":"https://q-xx.bstatic.com/images/hotel/max1024x768/189/189733445.jpg"
-                        }
-                    ]
+                    "address":"Bergmannstraße 15, 10961 Berlin",
+                    "image":"https://q-xx.bstatic.com/images/hotel/max1024x768/189/189733445.jpg"                    
                 },
                 {
                     "id": 3,
                     "title": "Provisionsfreie ruhige Wohnung in Kreuzberg",
                     "price":470,
-                    "location":{
-                        "address":"Zossener Str. 5, 10961 Berlin",
-                        "latitude":52.493683162137756,
-                        "longitude":13.394607280443896
-                    },
-                    "images":[
-                        {
-                            "id":1,
-                            "url":"https://img.wg-gesucht.de/media/up/2014/42/9f5dfa8c47234170_mg_0953.sized.jpg"
-                        },
-                        {
-                            "id":2,
-                            "url":"https://img.wg-gesucht.de/media/up/2014/42/9f5dfa8c47234170_mg_0953.sized.jpg"
-                        },
-                        {
-                            "id":3,
-                            "url":"https://img.wg-gesucht.de/media/up/2014/42/9f5dfa8c47234170_mg_0953.sized.jpg"
-                        },
-                        {
-                            "id":4,
-                            "url":"https://img.wg-gesucht.de/media/up/2014/42/9f5dfa8c47234170_mg_0953.sized.jpg"
-                        },
-                        {
-                            "id":5,
-                            "url":"https://img.wg-gesucht.de/media/up/2014/42/9f5dfa8c47234170_mg_0953.sized.jpg"
-                        }
-                    ]
+                    "address":"Zossener Str. 5, 10961 Berlin",
+                    "image":"https://img.wg-gesucht.de/media/up/2014/42/9f5dfa8c47234170_mg_0953.sized.jpg"                    
                 },
                 {
                     "id": 4,
                     "title": "Schöne Zweiraumwohnung direkt im Grünen",
                     "price":463,
-                    "location":{
-                        "address":"Zossener Str. 22, 10961 Berlin",
-                        "latitude":52.490010798676394,
-                        "longitude":13.393719465845871
-                    },
-                    "images":[
-                        {
-                            "id":1,
-                            "url":"https://imganuncios.mitula.net/schone_3_raum_wohnung_direkt_vom_eigentumer_6890117544932037956.jpg"
-                        },
-                        {
-                            "id":2,
-                            "url":"https://imganuncios.mitula.net/schone_3_raum_wohnung_direkt_vom_eigentumer_6890117544932037956.jpg"
-                        },
-                        {
-                            "id":3,
-                            "url":"https://imganuncios.mitula.net/schone_3_raum_wohnung_direkt_vom_eigentumer_6890117544932037956.jpg"
-                        },
-                        {
-                            "id":4,
-                            "url":"https://imganuncios.mitula.net/schone_3_raum_wohnung_direkt_vom_eigentumer_6890117544932037956.jpg"
-                        },
-                        {
-                            "id":5,
-                            "url":"https://imganuncios.mitula.net/schone_3_raum_wohnung_direkt_vom_eigentumer_6890117544932037956.jpg"
-                        },
-                        {
-                            "id":6,
-                            "url":"https://imganuncios.mitula.net/schone_3_raum_wohnung_direkt_vom_eigentumer_6890117544932037956.jpg"
-                        }
-                    ]
+                    "address":"Zossener Str. 22, 10961 Berlin",
+                    "image":"https://imganuncios.mitula.net/schone_3_raum_wohnung_direkt_vom_eigentumer_6890117544932037956.jpg"                    
                 }
             ]
     }
